@@ -1,0 +1,24 @@
+{
+    "AS_Button_e218470d8c0f4a9c8aaae31330454900": {
+        "id": "AS_Button_e218470d8c0f4a9c8aaae31330454900",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d908d1721b92450da4f933c10fa89df9"
+        },
+        "language": "js",
+        "eventType": "onClick",
+        "actions": [{
+            "id": "ADD_SNIPPET_b9d08e1a8c994fb9934a904171435448",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"AF95173 QA Sanity On Tablet\");",
+            "parentId": null
+        }]
+    }
+}

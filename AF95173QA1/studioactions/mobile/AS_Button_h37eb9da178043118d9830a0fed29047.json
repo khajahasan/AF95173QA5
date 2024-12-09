@@ -1,0 +1,24 @@
+{
+    "AS_Button_h37eb9da178043118d9830a0fed29047": {
+        "id": "AS_Button_h37eb9da178043118d9830a0fed29047",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": null,
+            "KUID": "jf739c080281448faf48a5c6ad277924"
+        },
+        "language": "js",
+        "eventType": "onClick",
+        "actions": [{
+            "id": "ADD_SNIPPET_c54d14df8f0947558c83c340d6ab2b8e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"AF95173 QA Sanity On Mobile\");",
+            "parentId": null
+        }]
+    }
+}

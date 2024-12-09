@@ -1,0 +1,24 @@
+{
+    "AS_Button_be4c5f3ec8524a089e9506d9d92dd9dd": {
+        "id": "AS_Button_be4c5f3ec8524a089e9506d9d92dd9dd",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": null,
+            "KUID": "ccc8a355438340e092602b9cc0af9242"
+        },
+        "language": "js",
+        "eventType": "onClick",
+        "actions": [{
+            "id": "ADD_SNIPPET_e43cf046574d4136898696340cb70c3a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"AF95173 QA Sanity On Desktop/Responsive Web\");",
+            "parentId": null
+        }]
+    }
+}
